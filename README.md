@@ -1,4 +1,4 @@
-# Motorola-Sales-Data-Analysis-
+# Motorola-Smartphone-Sales-Data-Analysis-
 
 ### 📌 Project Overview
 
